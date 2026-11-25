@@ -43,4 +43,5 @@ Luego visita `http://localhost:3000`.
 - 3 vidas con invencibilidad temporal al reaparecer (parpadeo)
 - Asteroides se parten en fragmentos más pequeños al ser destruidos
 - Power-up **Velocidad**: al destruir un asteroide puede aparecer un ítem cian; al recogerlo duplica el empuje de la nave durante 5 segundos
+- Estrella fugaz: cruza la pantalla a gran velocidad, se desvanece sola, se puede disparar (150 puntos) y no impide pasar de nivel
 - Partículas de explosión al destruir asteroides
